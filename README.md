@@ -1,9 +1,7 @@
-### E ai! Eu sou o Guilherme Gomes
-
-
-- 🔭 Hoje estou jogando bola na HATTRICK
-- 🌱 Estou estudando Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
+<div>
+  <h1 align="center">E ai! Tudo bem? 😃</h1>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BpoRQlPI%2FSZCfwmt5pzetww%3D%3D"><i>Guilherme Gomes</i></a> e eu estudo Desenvolvimento de Sistemas <a href="https://cursos.sesisenai.org.br/sao-jose"><i>Senai São José</i></a>. 😃
+  <p align="center"> Sou apaixonado por tecnologia
 
 <div align="center">
   <a href="https://github.com/CariocaGomes">
