@@ -28,5 +28,5 @@
 ##
 
 <div>
-
+<a href="https://www.instagram.com/ggomesjc_/" targes="_blank"><img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target-"_blank"></a>
 </div>
